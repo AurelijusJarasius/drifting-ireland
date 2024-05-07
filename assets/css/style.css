@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Teachers:ital,wght@0,400..800;1,400..800&display=swap');
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
  }
 
+ h1 {
+   font-family: 'Teachers', sans-serif;
+ }
  header {
     background-color: black;
  }
