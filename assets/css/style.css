@@ -20,7 +20,11 @@
  }
 
  footer {
-    background-color: white;
+    background-color: #ff0000;
+    position:absolute;
+    height: 2rem;
+    width: 100%;
+    bottom: 0;
  }
 #logo {
    color: #ffffff;
