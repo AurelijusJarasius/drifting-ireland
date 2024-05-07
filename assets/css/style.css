@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+
+ header {
+    background-color: black;
+ }
+
+ main {
+    background-color: grey;
+ }
+
+ footer {
+    background-color: white;
+ }
