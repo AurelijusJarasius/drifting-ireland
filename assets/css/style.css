@@ -8,6 +8,8 @@
 
  h1 {
    font-family: 'Teachers', sans-serif;
+   text-decoration: none;
+   text-align: center;
  }
  header {
     background-color: black;
@@ -20,3 +22,22 @@
  footer {
     background-color: white;
  }
+#logo {
+   color: #ffffff;
+   font-size: 300%;
+   text-decoration: none;
+}
+ #menu {
+   font-size: 150%;
+   letter-spacing: 2px;
+   list-style-type: none;
+   text-align: center;
+ }
+
+ li {
+   display: inline;
+ }
+
+
+
+ 
