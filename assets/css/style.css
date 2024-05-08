@@ -37,6 +37,7 @@
     color:#000000;
     background-color: grey;
     flex: 1 0 auto;
+    margin-top: 62px;
  }
 
  footer {
@@ -48,10 +49,16 @@
  }
 
  #menu {
-   font-size: 150%;
-   letter-spacing: 5px;
+   font-size: 125%;
+   letter-spacing: 1px;
+   word-spacing: 3px;
    list-style-type: none;
    text-align: center;
+ }
+
+ /* Can't get highlight to work */
+ .active {
+  border-radius: 10px solid #ff0000;
  }
 
  li {
@@ -68,5 +75,15 @@
    background-color: grey;
 }
 
+/* Media query: larger screens 768px and up */
+@media screen and (min-width: 768px) {
+  /*Header*/
+nav {
+  display: block;
+  position: relative;
+}
 
- 
+main {
+  margin-top: 62px;
+}
+}
