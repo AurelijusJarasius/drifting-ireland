@@ -21,7 +21,6 @@ body {
   
  }
  
-
  h1 {
    font-family: 'Briem Hand', sans-serif;
    text-decoration: none;
@@ -40,20 +39,24 @@ body {
  header a {
    text-decoration: none;
  }
- 
 
  main {
   flex: 1 0 auto;
   margin-top: 100px;
  }
 
- footer {
-    background-color: #ff0000;
-    position:absolute;
-    height: 2rem;
-    width: 100%;
-    bottom: 0;
- }
+ /*Cannot move to center */
+#social-media {
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+}
+
+#social-media i {
+  font-size: 30px;
+  color: #ffffff;
+}
 
 #logo-image {
   float: left;
