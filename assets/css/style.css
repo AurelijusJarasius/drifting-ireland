@@ -9,27 +9,32 @@
 
  /* General Styles */
 
- body {
-   min-height: 100vh;
-   display: flex;
-   flex-direction: column;
+ html { 
+  background: url(images/body-image.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  
  }
+ 
 
  h1 {
    font-family: 'Briem Hand', sans-serif;
    text-decoration: none;
-   margin-left: auto;
-   margin-right: auto;
+   margin-left: 5px;
+   margin-top: 10px;
    width: 8em;
-   text-align: center;
+   display: inline;
    color:#000000;
  }
  header {
-    background-color: #ffffff;
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 3px 3px #3d3c3c;
  }
 
  header a {
@@ -41,8 +46,7 @@
  }
 
  main {
-    color:#000000;
-    background-color: grey;
+    image: url(assets/css/images/body-image.jpg);
     flex: 1 0 auto;
     margin-top: 62px;
  }
@@ -59,13 +63,19 @@
    font-size: 125%;
    letter-spacing: 1px;
    word-spacing: 3px;
-   list-style-type: none;
-   text-align: center;
+   list-style: none;
+   margin: 35%;
+   width: 100%;
+   border: 3px solid rgb(8, 8, 8);
+   border-radius: 25px;
+   padding: 15px;
+   display: inline;
  }
 
  #menu a:hover {
   color: #ff0000;
   transform: scale(1.025 1.025);
+
  }
  /* Can't get highlight to work */
  .active {
