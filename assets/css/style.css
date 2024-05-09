@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Teachers:ital,wght@0,400..800;1,400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&display=swap');
 
 * {
     padding: 0;
@@ -15,7 +16,7 @@
  }
 
  h1 {
-   font-family: 'Teachers', sans-serif;
+   font-family: 'Briem Hand', sans-serif;
    text-decoration: none;
    text-align: center;
    color:#000000;
@@ -32,6 +33,9 @@
    text-decoration: none;
  }
  
+ #logo-image {
+    float: left;
+ }
 
  main {
     color:#000000;
@@ -56,9 +60,13 @@
    text-align: center;
  }
 
+ #menu a:hover {
+  color: #ff0000;
+  transform: scale(1.025 1.025);
+ }
  /* Can't get highlight to work */
  .active {
-  border-radius: 10px solid #ff0000;
+  color: #ff0000;
  }
 
  li {
@@ -85,5 +93,9 @@ nav {
 
 main {
   margin-top: 62px;
+}
+
+#logo-image {
+  height: 75px;
 }
 }
