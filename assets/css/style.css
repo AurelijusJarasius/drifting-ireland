@@ -26,11 +26,11 @@ body {
    font-family: 'Briem Hand', sans-serif;
    text-decoration: none;
    margin-left: 5px;
-   margin-top: 10px;
    width: 8em;
    display: inline;
    color:#000000;
  }
+
  header {
     position: fixed;
     z-index: 99;
@@ -41,14 +41,10 @@ body {
    text-decoration: none;
  }
  
- #logo-image {
-    float: left;
- }
 
  main {
-    image: url(assets/css/images/body-image.jpg);
-    flex: 1 0 auto;
-    margin-top: 62px;
+  flex: 1 0 auto;
+  margin-top: 100px;
  }
 
  footer {
@@ -58,6 +54,10 @@ body {
     width: 100%;
     bottom: 0;
  }
+
+#logo-image {
+  float: left;
+}
 
  #menu {
    font-size: 125%;
@@ -77,38 +77,29 @@ body {
   transform: scale(1.025 1.025);
 
  }
+
  /* Can't get highlight to work */
  .active {
   color: #ff0000;
  }
 
- li {
+ #menu > li {
    display: inline;
  }
 
- .flex-container {
-   display: flex;
-   flex-wrap: wrap;
-   justify-content: space-between;
-   align-items: baseline;
-   padding: 20px;
-   margin: 20px auto;
-   background-color: grey;
-}
+video {
+  width: 600px;
+  height: 300px;
+ }
 
-/* Media query: larger screens 768px and up */
-@media screen and (min-width: 768px) {
+
+/* Media query: larger screens 769px and up */
+@media screen and (min-width: 769px) {
   /*Header*/
+
 nav {
   display: block;
   position: relative;
 }
 
-main {
-  margin-top: 62px;
-}
-
-#logo-image {
-  height: 75px;
-}
 }
