@@ -18,6 +18,9 @@
  h1 {
    font-family: 'Briem Hand', sans-serif;
    text-decoration: none;
+   margin-left: auto;
+   margin-right: auto;
+   width: 8em;
    text-align: center;
    color:#000000;
  }
@@ -26,7 +29,7 @@
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 3px 3px #000000;
+    box-shadow: 0 3px 3px #3d3c3c;
  }
 
  header a {
