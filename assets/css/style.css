@@ -36,10 +36,27 @@ body {
     width: 100%;
  }
 
- header a {
-   text-decoration: none;
- }
+.navigation-bar {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 
+.navigation-bar a {
+  float: center;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.navigation-bar a:hover {
+  color: #ff0000;
+  transform: scale(1.025 1.025);
+}
+ 
  main {
   flex: 1 0 auto;
   margin-top: 100px;
@@ -62,19 +79,6 @@ body {
   float: left;
 }
 
- #menu {
-   font-size: 125%;
-   letter-spacing: 1px;
-   word-spacing: 3px;
-   list-style: none;
-   margin: 35%;
-   width: 100%;
-   border: 3px solid rgb(8, 8, 8);
-   border-radius: 25px;
-   padding: 15px;
-   display: inline;
- }
-
  #menu a:hover {
   color: #ff0000;
   transform: scale(1.025 1.025);
@@ -84,11 +88,9 @@ body {
  /* Can't get highlight to work */
  .active {
   color: #ff0000;
+  text-decoration: none;
  }
 
- #menu > li {
-   display: inline;
- }
 
 video {
   width: 600px;
