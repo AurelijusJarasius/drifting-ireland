@@ -20,6 +20,8 @@ header {
   z-index: 99;
   width: 100%;
   display: flex;
+  justify-content: space-between;
+  align-items: baseline;
 }
 
 header a {
@@ -51,6 +53,20 @@ h1 {
   left: 0;
   padding: 0 1rem;
   display: none;
+  top: 100%;
+ }
+
+ /* Nav Toggle */
+ #nav-toggle:checked~nav {
+  display: block;
+ }
+
+ #nav-toggle {
+  display: none;
+ }
+
+ .nav-toggle-label {
+  font-size: 2rem;
  }
 
 body {
