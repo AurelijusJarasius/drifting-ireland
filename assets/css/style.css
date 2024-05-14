@@ -14,6 +14,13 @@
   background-size: cover;
 }
 
+header {
+  position: fixed;
+  padding: 0 1rem;
+  z-index: 99;
+  width: 100%;
+}
+
 body {
   min-height: 100vh;
   display: flex;
@@ -30,24 +37,22 @@ body {
    color:#000000;
  }
 
- header {
-    position: fixed;
-    z-index: 99;
-    width: 100%;
- }
-
-.navigation-bar {
-  overflow: hidden;
-  position: fixed;
-  top: 0;
-  width: 100%;
+ #logo {
+  display: flex;
+  justify-content: flex-start;
 }
 
+ #nav-bar {
+  display: flex;
+  justify-content: center;
+  margin-top: auto;
+ }
+
+ #nav-bar a {
+  letter-spacing: 2px;
+ }
+
 .navigation-bar a {
-  float: center;
-  display: block;
-  text-align: center;
-  padding: 14px 16px;
   text-decoration: none;
   color: #ffffff;
 }
@@ -75,9 +80,6 @@ body {
   color: #ffffff;
 }
 
-#logo-image {
-  float: left;
-}
 
  #menu a:hover {
   color: #ff0000;
