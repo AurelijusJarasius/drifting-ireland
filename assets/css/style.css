@@ -50,7 +50,7 @@ h1 {
  nav {
   position:absolute;
   width: 100%;
-  left: 0;
+  left: 33%;
   padding: 0 1rem;
   display: none;
   top: 100%;
@@ -67,6 +67,7 @@ h1 {
 
  .nav-toggle-label {
   font-size: 2rem;
+  color: #ffffff;
  }
 
 body {
@@ -83,7 +84,7 @@ body {
  
  main {
   flex: 1 0 auto;
-  margin-top: 61px;
+  margin-top: 48px;
  }
 
 #social-media {
@@ -104,10 +105,12 @@ body {
   /*Header*/
 
 nav {
-  display: block;
-  position: relative;
+  display: flex;
+  justify-content: center;
+  top: 0%;
+  left: 40%;
   width: fit-content;
-  padding: 20px 30%;
+  padding: 20px;
 }
 
 #menu {
@@ -121,6 +124,19 @@ nav {
 
 #menu > li {
   padding-left: 1rem;
+}
+
+.nav-toggle-label {
+  display: none;
+}
+
+#logo {
+  font-size: 300%;
+  top: 0%;
+}
+
+main {
+  margin-top: 101px;
 }
 
 }
