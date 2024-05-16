@@ -17,6 +17,7 @@
 header {
   position: fixed;
   padding: 0 1rem;
+  padding-top: 5px;
   z-index: 99;
   width: 100%;
   display: flex;
@@ -80,6 +81,20 @@ body {
  #logo {
   display: flex;
   justify-content: flex-start;
+  background-color: rgba(0,0,0,.2);
+  border-radius: 15px;
+}
+
+.logo-green {
+  color: #169B62;
+}
+
+.logo-white {
+  color: #ffffff;
+}
+
+.logo-orange {
+ color: #FF883E;
 }
  
  main {
@@ -131,9 +146,19 @@ nav {
 }
 
 #logo {
-  font-size: 300%;
+  font-size: 250%;
+}
+
+.logo-position {
+  padding: 15px;
   top: 0%;
 }
+
+a {
+  top: 5px;
+}
+
+
 
 main {
   margin-top: 101px;
