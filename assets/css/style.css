@@ -108,6 +108,7 @@ main {
   height: 600px;
   width: 100%;
   position: relative;
+  text-decoration: none;
  }
 
 #hero-text {
