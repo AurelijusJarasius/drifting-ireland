@@ -127,6 +127,32 @@ main {
   padding-top: 10px;
 }
 
+#what-is-drifting {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#what-is-drifting-origins {
+  padding: 0 20px;
+  margin: 10px;
+}
+
+#what-is-drifting-technical {
+  padding: 0 20px;
+  margin: 10px;
+}
+
+#drifting-video {
+  padding: 0 20px;
+  margin: 10px;
+  width: 202px;
+}
+
+#what-is-drifting-ireland {
+  padding: 0 20px;
+  margin: 10px;
+}
+
 #social-media {
   padding: 10px 0;
   display: flex;
