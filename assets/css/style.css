@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Teachers:ital,wght@0,400..800;1,400..800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 * {
     padding: 0;
@@ -29,7 +30,6 @@ header a {
   text-decoration: none;
   color: #ffffff;
 }
-
 
 #menu {
   font-size: 110%;
@@ -68,11 +68,11 @@ header a {
  }
 
 body {
+  font-family: 'Open Sans' , sans-serif;
+  color: #DFE6E6;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  color: #ffffff;
-  
  }
 
  h1 {
@@ -81,7 +81,7 @@ body {
 }
 
 h2 {
-  color: #ffffff;
+  color: #DFE6E6;
 }
 
  #logo {
@@ -113,44 +113,64 @@ main {
   height: 210px;
   width: 100%;
   position: relative;
-  text-decoration: none;
  }
 
+
 #hero-text {
-  color: #ffffff;
-  background-color: rgba(0,0,0,.2);
+  color: #DFE6E6;
+  background-color: rgba(0,0,0,.4);
   font-size: 130%;
   position: absolute;
-  width: 100%;
   min-height: 200px;
-  padding-left: 10px;
-  padding-top: 10px;
+  padding: 0 10px;
+  margin: 10px;
 }
 
+#hero-text-list {
+  list-style-type: none;
+}
+
+/* What is drifting section */
 #what-is-drifting {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  padding: 0 10px;
+  margin: 5px;
 }
 
 #what-is-drifting-origins {
-  padding: 0 20px;
-  margin: 10px;
+  padding: 0 10px;
+  margin: 5px;
+  background-color: rgba(0,0,0,.4);
 }
 
 #what-is-drifting-technical {
-  padding: 0 20px;
-  margin: 10px;
+  padding: 0 10px;
+  margin: 5px;
+  background-color: rgba(0,0,0,.4);
 }
 
 #drifting-video {
-  padding: 0 20px;
-  margin: 10px;
-  width: 202px;
+  display: flex;
+  justify-content: center;
+  
 }
 
 #what-is-drifting-ireland {
-  padding: 0 20px;
-  margin: 10px;
+  padding: 0 10px;
+  margin: 5px;
+  background-color: rgba(0,0,0,.4);
+}
+
+#newsletter {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#newsletter a {
+  margin: 50px 50px 50px;
+  background-color: #FF883E;
+  text-decoration: none;
+  color: #DFE6E6;
 }
 
 #social-media {
