@@ -71,12 +71,17 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  color: #ffffff;
   
  }
 
  h1 {
   font-family: 'Briem Hand', sans-serif;
   text-decoration: none;
+}
+
+h2 {
+  color: #ffffff;
 }
 
  #logo {
@@ -105,7 +110,7 @@ main {
 
  /* Hero section */
 #hero {
-  height: 600px;
+  height: 210px;
   width: 100%;
   position: relative;
   text-decoration: none;
@@ -119,6 +124,7 @@ main {
   width: 100%;
   min-height: 200px;
   padding-left: 10px;
+  padding-top: 10px;
 }
 
 #social-media {
