@@ -241,30 +241,89 @@ main {
 
 }
 
+#first {
+  color: #FFD700;
+}
+
 #james-deane > img {
-  border-radius: 4px;
+  float: left;
   padding: 5px;
   width: 150px;
+  height: 150px;
+}
+
+#james-deane-bio {
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#james-deane-bio > ul {
+  list-style-type: none;
 }
 
 #jack-shanahan > img {
-  border-radius: 4px;
+  float: left;
   padding: 5px;
   width: 150px;
+  height: 150px;
+}
+
+#jack-shanahn-bio {
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#jack-shanahan-bio > ul {
+  list-style-type: none;
+}
+
+#conor-shanahan {
+  margin-top: 20px;
 }
 
 #conor-shanahan > img {
-  border-radius: 4px;
+  float: left;
   padding: 5px;
   width: 150px;
+  height: 150px;
+}
+
+#conor-shanahan-bio {
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#conor-shanahan-bio > ul {
+  list-style-type: none;
 }
 
 #duane-mckeever > img {
-  border-radius: 4px;
+  float: left;
   padding: 5px;
   width: 150px;
+  height: 150px;
 }
 
+#duane-mckeever-bio {
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#duane-mckeever-bio > ul {
+  list-style-type: none;
+}
 
 /* Media query: larger screens 769px and up */
 @media screen and (min-width: 769px) {
