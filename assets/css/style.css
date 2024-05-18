@@ -180,6 +180,60 @@ main {
   color: #ffffff;
 }
 
+/*Events.html page Styling*/
+
+#drift-events {
+
+}
+
+#idc-calendar {
+  padding: 0 10px;
+  margin-top: 5px;
+  list-style-type: none;
+}
+
+#idc-calendar > li {
+  border-bottom: 1px solid #ffffff;
+  padding-top: 5px;
+  background-color: rgba(0,0,0,.4);
+}
+
+#japfest {
+  padding: 0 10px;
+  margin-top: 5px;
+  list-style-type: none;
+}
+
+#japfest-calendar > li {
+  border-bottom: 1px solid #ffffff;
+  padding-top: 5px;
+  background-color: rgba(0,0,0,.4);
+}
+
+#drift-masters {
+  padding: 0 10px;
+  margin-top: 5px;
+  list-style-type: none;
+}
+
+#dmec > li {
+  border-bottom: 1px solid #ffffff;
+  padding-top: 5px;
+  background-color: rgba(0,0,0,.4);
+}
+
+#adam-lz {
+  padding: 0 10px;
+  margin-top: 5px;
+  list-style-type: none;
+}
+
+#adam-lz-calendar > li {
+  border-bottom: 1px solid #ffffff;
+  padding-top: 5px;
+  background-color: rgba(0,0,0,.4);
+}
+
 
 /* Media query: larger screens 769px and up */
 @media screen and (min-width: 769px) {
