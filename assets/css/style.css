@@ -183,7 +183,8 @@ main {
 /*Events.html page Styling*/
 
 #drift-events {
-
+  width: 100%;
+  position: relative;
 }
 
 #idc-calendar {
@@ -198,25 +199,13 @@ main {
   background-color: rgba(0,0,0,.4);
 }
 
-#japfest {
+#japfest-calendar {
   padding: 0 10px;
   margin-top: 5px;
   list-style-type: none;
 }
 
 #japfest-calendar > li {
-  border-bottom: 1px solid #ffffff;
-  padding-top: 5px;
-  background-color: rgba(0,0,0,.4);
-}
-
-#drift-masters {
-  padding: 0 10px;
-  margin-top: 5px;
-  list-style-type: none;
-}
-
-#dmec > li {
   border-bottom: 1px solid #ffffff;
   padding-top: 5px;
   background-color: rgba(0,0,0,.4);
@@ -232,6 +221,48 @@ main {
   border-bottom: 1px solid #ffffff;
   padding-top: 5px;
   background-color: rgba(0,0,0,.4);
+}
+
+#drift-masters {
+  padding: 0 10px;
+  margin-top: 5px;
+  list-style-type: none;
+}
+
+#drift-masters-calendar > li {
+  border-bottom: 1px solid #ffffff;
+  padding-top: 5px;
+  background-color: rgba(0,0,0,.4);
+}
+
+/* Drivers.html page styling */
+
+#driver-bio {
+
+}
+
+#james-deane > img {
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+#jack-shanahan > img {
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+#conor-shanahan > img {
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+#duane-mckeever > img {
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
 
 
