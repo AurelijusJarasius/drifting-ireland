@@ -31,6 +31,7 @@ header a {
   color: #ffffff;
 }
 
+
 #menu {
   font-size: 110%;
   letter-spacing: 2px;
@@ -73,6 +74,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  
  }
 
  h1 {
@@ -110,17 +112,17 @@ main {
 
  /* Hero section */
 #hero {
-  height: 210px;
+  height: 225px;
   width: 100%;
   position: relative;
  }
-
 
 #hero-text {
   color: #DFE6E6;
   background-color: rgba(0,0,0,.4);
   font-size: 130%;
   position: absolute;
+  width: 100%;
   min-height: 200px;
   padding: 0 10px;
   margin: 10px;
@@ -146,32 +148,31 @@ main {
   padding: 0 10px;
   margin: 5px;
   background-color: rgba(0,0,0,.4);
-}
+  }
 
 #drifting-video {
   display: flex;
   justify-content: center;
-  
-}
+  }
 
 #what-is-drifting-ireland {
-  padding: 0 10px;
-  margin: 5px;
-  background-color: rgba(0,0,0,.4);
-}
+    padding: 0 10px;
+    margin: 5px;
+    background-color: rgba(0,0,0,.4);
+  }
 
 #newsletter {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
 #newsletter a {
-  margin: 50px 50px 50px;
-  background-color: #FF883E;
-  text-decoration: none;
-  color: #DFE6E6;
-}
+    margin: 50px 50px 50px;
+    background-color: #FF883E;
+    text-decoration: none;
+    color: #DFE6E6;
+  }
 
 #social-media {
   padding: 10px 0;
@@ -236,5 +237,12 @@ main {
   #menu a:hover {
     border-bottom: 1px solid #ff0000;
   }
+
+ #hero-text {
+  display: block;
+  justify-content: center;
+  text-align: center;
+  font-size: 150%;
+ }
 
 }
