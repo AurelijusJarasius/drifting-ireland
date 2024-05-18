@@ -40,7 +40,7 @@ header a {
 }
 
 .active {
-  color: #ff0000;
+  color: #FF883E;
   text-decoration: none;
  }
 
@@ -121,11 +121,9 @@ main {
   color: #DFE6E6;
   background-color: rgba(0,0,0,.4);
   font-size: 130%;
-  position: absolute;
-  width: 100%;
-  min-height: 200px;
-  padding: 0 10px;
-  margin: 10px;
+  display: block;
+  justify-content: center;
+  text-align: center;
 }
 
 #hero-text-list {
@@ -133,46 +131,42 @@ main {
 }
 
 /* What is drifting section */
-#what-is-drifting {
-  padding: 0 10px;
-  margin: 5px;
-}
 
 #what-is-drifting-origins {
   padding: 0 10px;
-  margin: 5px;
+  margin-top: 5px;
   background-color: rgba(0,0,0,.4);
 }
 
 #what-is-drifting-technical {
   padding: 0 10px;
-  margin: 5px;
+  margin-top: 5px;
   background-color: rgba(0,0,0,.4);
-  }
+}
 
 #drifting-video {
   display: flex;
   justify-content: center;
-  }
+}
 
 #what-is-drifting-ireland {
-    padding: 0 10px;
-    margin: 5px;
-    background-color: rgba(0,0,0,.4);
-  }
+  padding: 0 10px;
+  margin-top: 5px;
+  background-color: rgba(0,0,0,.4);
+}
 
 #newsletter {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    text-align: center;
-  }
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
   
 #newsletter a {
-    margin: 50px 50px 50px;
-    background-color: #FF883E;
-    text-decoration: none;
-    color: #DFE6E6;
-  }
+  margin: 50px 50px 50px;
+  background-color: #FF883E;
+  text-decoration: none;
+  color: #DFE6E6;
+}
 
 #social-media {
   padding: 10px 0;
@@ -235,7 +229,7 @@ main {
 /* Media query: laptops and desktops 992px and up */
 @media screen and (min-width: 992px) {
   #menu a:hover {
-    border-bottom: 1px solid #ff0000;
+    border-bottom: 1px solid #FF883E;
   }
 
  #hero-text {
