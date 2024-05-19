@@ -86,6 +86,13 @@ h2 {
   color: #DFE6E6;
 }
 
+img {
+  display: flex;
+  justify-content: center;
+  object-fit: contain;
+  max-width: 100%;
+}
+
  #logo {
   display: flex;
   justify-content: flex-start;
@@ -110,8 +117,9 @@ main {
  }
 
  /* Hero section */
-#hero {
-  height: 225px;
+.hero {
+  display: flex;
+  justify-content: center;
   width: 100%;
   position: relative;
  }
@@ -119,7 +127,6 @@ main {
 #hero-text {
   color: #DFE6E6;
   background-color: rgba(0,0,0,.4);
-  font-size: 130%;
   display: block;
   justify-content: center;
   text-align: center;
@@ -127,6 +134,12 @@ main {
 
 #hero-text-list {
   list-style-type: none;
+}
+
+#hero-image {
+  display: flex;
+  justify-content: center;
+  object-fit: fill;
 }
 
 /* What is drifting section */
