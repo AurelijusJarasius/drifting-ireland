@@ -147,7 +147,7 @@ main {
 /* Slideshow container */
 .slideshow-container {
   padding-top: 5px;
-  max-width: 1000px;
+  max-width: 500px;
   position: relative;
   margin: auto;
 }
@@ -234,7 +234,6 @@ main {
 #what-is-drifting-technical {
   padding: 0 10px;
   margin-top: 5px;
-  background-color: rgba(0,0,0,.4);
 }
 
 #drifting-video {
@@ -245,7 +244,6 @@ main {
 #what-is-drifting-ireland {
   padding: 0 10px;
   margin-top: 5px;
-  background-color: rgba(0,0,0,.4);
 }
 
 #newsletter {
@@ -558,4 +556,5 @@ main {
   font-size: 150%;
  }
 
+ 
 }
