@@ -137,6 +137,17 @@ main {
 
 /* What is drifting section */
 
+.div.scroll-container-origins {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+.div.scroll-container-origins img {
+  padding: 10px;
+}
+
 #what-is-drifting-origins {
   padding-top: 5px;
   padding: 0 10px;
@@ -418,8 +429,6 @@ nav {
 main {
   margin-top: 101px;
 }
-
-
 
 /* Hero */
 #hero {
