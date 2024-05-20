@@ -309,10 +309,6 @@ text-align: center;
 
 /* Drivers.html page styling */
 
-#driver-bio {
-
-}
-
 #first {
   color: #FFD700;
 }
@@ -343,7 +339,7 @@ text-align: center;
   height: 150px;
 }
 
-#jack-shanahn-bio {
+#jack-shanahan-bio {
   display: flex;
   flex-direction: column;
   justify-content: right;
@@ -400,6 +396,12 @@ text-align: center;
 /* Sign-up.html */
 
 /* Form */
+#sign-up-text {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
 #signup {
   background-size: cover;
   background-position: 75%;
@@ -440,7 +442,7 @@ text-align: center;
   border-radius: 2px;
   padding: 15px 32px;
   font-size: 100%;
-  background-color: #454b1b;
+  background-color: #169B62;
   color: #fafafa;
 }
 
@@ -529,6 +531,31 @@ main {
   color: #454b1b;
 }
 
+#irish-drift-championship > img {
+  width: 75%;
+}
+
+#irish-drift-championship {
+  font-size: 150%;
+}
+
+#drift-masters > img {
+  width: 75%;
+  height: 300px;
+}
+
+#drift-masters {
+  font-size: 150%;
+}
+
+#lz-worldtour > img {
+  width: 65%;
+}
+
+#lz-worldtour {
+  font-size: 150%;
+}
+
 }
 
 /* Media query: laptops and desktops 992px and up */
@@ -586,5 +613,9 @@ main {
   font-size: 150%;
 }
 
+#lz-worldtour > img {
+  width: 100%;
+  height: 350px;
+}
 
 }
