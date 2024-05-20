@@ -250,16 +250,14 @@ main {
 }
 
 #newsletter {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  width: 100%;
+  background-color: rgba(255, 136, 62, 0.5);
+  color: #DFE6E6;
   text-align: center;
 }
-  
-#newsletter a {
-  margin: 50px 50px 50px;
-  background-color: #FF883E;
+
+#newsletter > a {
   text-decoration: none;
-  color: #DFE6E6;
 }
 
 #social-media {
