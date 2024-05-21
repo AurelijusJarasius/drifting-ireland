@@ -332,3 +332,78 @@ Find when is the next Drift Masters event in Ireland | Pass |
  
 > I then received a notification from GitHub that my project is being deployed and after about 1 minute & a couple of refreshes of the page it was ready and live.
 
+<a name="credits"></a>
+## Credits
+
+> Background image : https://www.freepik.com/free-photo/dark-grunge-texture_982950.htm#query=charcoal%20background&position=3&from_view=keyword&track=ais_user&uuid=3f6db062-0537-4c12-b059-b0e75ee6c038 
+
+> What is drifting content: https://en.wikipedia.org/wiki/Drifting_(motorsport)
+
+> Drifting Roots in Ireland content: https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+3/courseware/e805068059af42af87681032aa64053f/92a91cf7fcee4361a2af651b7827a341/  
+
+> Youtube video: https://www.youtube.com/watch?v=2GhYuKIbYGk&t=94s 
+
+> Iframe style: Course content - https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2/courseware/fcc67a894619420399970ae84fc4802f/13db720675f94dbca6b0fe79467628ca/ 
+
+> Newsletter call to action banner: https://www.scaler.com/topics/how-to-redirect-from-one-page-to-another-in-html-on-button-click/  
+
+> Hero Image - Photo by IDC: https://www.facebook.com/BurkeLubricants/photos/t.100071575119290/1387911637976706/?type=3  
+
+> Tazio Nuvolari image - Photo by Central Press // Getty Images : https://www.roadandtrack.com/motorsports/a29267/the-legend-of-tazio-nuvolari/  
+
+> Sir Stirling Moss image - Photo by Reuters  : https://s7757.pcdn.co/wp-content/uploads/2020/04/200412Moss-8.jpg  
+
+> Japan drift image - Photo by  : https://scontent.fdub1-3.fna.fbcdn.net/v/t39.30808-6/369784580_805524438240846_4785509070831530953_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0VJbcI2pgMkQ7kNvgH2LObZ&_nc_ht=scontent.fdub1-3.fna&oh=00_AYBxsFY-AsWQgc95jSIs9j8WgkqlM-1rKj3mqVDVO6aNGw&oe=665124DC  
+
+> Origins slideshow code : https://www.w3schools.com/howto/howto_js_slideshow.asp 
+
+> Bottom Image - Photo By IDC : https://scontent.fdub1-4.fna.fbcdn.net/v/t31.18172-8/14500194_867154456719096_8167580349029681826_o.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QVIJNXpwyocQ7kNvgErrTy_&_nc_ht=scontent.fdub1-4.fna&oh=00_AYAuOsHStWRrUTkGefwwZQiYs2De-jUvI7JFQL2BkmVzCQ&oe=6672B7B1 
+
+> Events page - IDC Logo : https://www.irishdriftchampionship.com/ 
+
+> Events page - DMEC Logo : https://static.wixstatic.com/media/8b596f_3756347a31b44ddcaa288deef727f1c0~mv2.jpg/v1/fill/w_979,h_552,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/8b596f_3756347a31b44ddcaa288deef727f1c0~mv2.jpg 
+
+> Events page - LZWT Logo : https://www.lzworldtour.com/
+
+> Drivers page - James Deane image - Photo by Drift.News : https://drift.news/drivers-profile/james-deane-dmec/ 
+
+> Drivers page - Jack Shanahan image - Photo by Drift.News : https://drift.news/drivers-profile/jack-shanahan/ 
+
+> Drivers page - Conor Shanahan image - Photo by Drift.News : https://drift.news/drivers-profile/conor-shanahan-fd/ 
+
+> Drivers page - Duane Mckeever image - Photo by Drift.News : https://drift.news/drivers-profile/duane-mckeever/ 
+
+> Drivers page - Driver image styling : https://www.w3schools.com/css/css3_images.asp 
+
+> Sign up form code - course content/Love Running : https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+3/courseware/e805068059af42af87681032aa64053f/fc8bba87c52a4d91b32d1c7c28b1d79b/
+
+<a name="content"></a>
+## Content & Resources
+
+### Code Institute
+
+> Project created inline with project 1 scope
+
+> Certain aspects of the site follow course content and Love Running project
+
+### w3 schools
+
+> Used for general look up for HTML and CSS syntax
+
+### htmlcolors.com
+> Used for colour codes
+
+<a name="acknowlegements"></a>
+## Acknowledgements
+
+### Alan Bushell
+
+> My mentor who has provided tips, tools, tricks, encouragement and aleviated fears to get this project completed 
+
+### Lewis Dillon
+
+> My Course Facilitator who has shared advised and lend a helping hand where needed to troubleshoot
+
+
+
+
