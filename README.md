@@ -307,6 +307,7 @@ Find when is the next Drift Masters event in Ireland | Pass |
 ## CSS Validation
 ![css validation](assets/css/images/css-validation.png)
 
+<a name="bugs"></a>
 ## Bugs
 > Issues with youtube video refusing to connect. **Fixed**
 ![youtube bug 1](assets/css/images/youtube-bug1.png)
@@ -317,4 +318,17 @@ Find when is the next Drift Masters event in Ireland | Pass |
 ![nav bug](assets/css/images/nav-bug.png)
 
 > Video and images not positioning correctly on larger screens 992px and up **Fixed**
+
+<a name="deployment"></a>
+## Deployment
+
+> To deploy the project I followed these steps starting from the main project repository [here](https://github.com/AurelijusJarasius/drifting-ireland).
+
+ 1. Clicked on `Settings` on the navigation menu in the repository
+ 2. I then selected the `Pages` menu on the side bar.
+ 3. In the first dropdown menu labeled `Source` I selected the branch of the name `main` from the dropdown.
+ 4. In the next dropdown labeled `/root` I left as the default option.
+ 5. Selected Save
+ 
+> I then received a notification from GitHub that my project is being deployed and after about 1 minute & a couple of refreshes of the page it was ready and live.
 
