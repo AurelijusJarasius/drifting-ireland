@@ -216,4 +216,35 @@ This has led me to the conclusion that while there is a lot of information out t
 <a name="Future"></a>
 # Future Features
 ### Home Page
-> Additional section with
+> Additional section with videos from main figures in drifting community
+
+> Additional section with ways on how to get involved
+
+### Events Page
+
+> Embed google maps to each event location
+
+> Add sections for upcoming and past events
+
+> Link logos to external websites of the competitions
+
+> Add an option to purchase tickets direct from the website for upcoming events
+
+### Drivers Page
+
+> Add links to drivers social media platforms
+
+> Add more information about drivers, including videos of highlight reels
+
+> Add links to drivers merch shops
+
+### NEW Page - Community
+
+> Add sections for various communities arround Ireland
+
+### Sign Up Page
+
+> Add more detail to the form, to gather more data and customize newsletters
+- Competition Preference
+- Driver Preference
+- Competitor or Spectator
