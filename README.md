@@ -286,6 +286,20 @@ Find when is the next Drift Masters event in Ireland | Pass |
 ![Google Lightouse events.html](assets/css/images/Events-page-test.png)
 
 ### drivers.html
+![Google Lightouse drivers.html](assets/css/images/drivers-page-test.png)
 
+### sign-up.html
+![Google Lightouse sign-up.html](assets/css/images/signup-page-test.png)
+
+## HTML Validation
+
+### index.html
+![html validation index.html](assets/css/images/html-validation-index.png)
+
+### events.html
+![html validation events.html](assets/css/images/html-validation-events.png)
+
+### drivers.html
+![html validation drivers.html](assets/css/images/html-validation-drivers.png)
 
 ### sign-up.html
