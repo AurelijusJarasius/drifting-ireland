@@ -50,6 +50,7 @@ header a {
   top: 100%;
   background-color: rgba(22, 155, 98, 0.9);
   font-weight: bold;
+  text-align: center;
  }
 
  /* Nav Toggle */
@@ -462,7 +463,9 @@ text-align: center;
     top: 0%;
     left: 40%;
     width: fit-content;
+    height: 65px;
     padding: 10px;
+    background-color: rgb(255,255,255, 0.1);
   }
   
   #menu {
