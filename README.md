@@ -262,3 +262,9 @@ Sign up to our newsletter banner on the bottom of the page | Redirect to sign-up
 Footer social media links (external links) | 1. Facebook Icon = New tab, redirect to facebook 2. Instagram Icon = New tab, redirect to instagram 3. X Icon = New tab, redirect to X 4. Youtube Icon = New tab, redirect to youtube | Pass |
 Sign up form | User prevented from entering email address without @ | Pass |
 
+#### Testing for responsiveness
+| Test | Result |
+|--|--|
+Home page, about, portfolio, contact us displays correctly on screens less than 769px | Pass |
+Home page, about, portfolio, contact us displays correctly on screens larger than 992px | Pass |
+
