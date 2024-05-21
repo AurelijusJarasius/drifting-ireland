@@ -11,7 +11,7 @@
  /* General Styles */
 
  html { 
-  background: url(images/background-test.jpg) no-repeat center center fixed;
+  background: url(images/background.webp) no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -35,7 +35,6 @@ header a {
   font-size: 110%;
   letter-spacing: 2px;
   list-style-type: none;
-  
 }
 
 .active {
@@ -73,7 +72,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  
  }
 
  h1 {
@@ -112,7 +110,7 @@ main {
 #hero {
   height: 350px;
   width: 100%;
-  background: url(../css/images/mainpage-cars1.jpg) no-repeat center center/cover;
+  background: url(../css/images/hero-image.webp) no-repeat center center/cover;
   position: relative;
  }
 
@@ -662,9 +660,6 @@ main {
   position: absolute;
   right: 270px;
   top: 1050px;
-}
-
-#roots-image {
 }
 
 /* Events page styling */
