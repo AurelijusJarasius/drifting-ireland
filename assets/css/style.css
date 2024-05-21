@@ -567,7 +567,6 @@ main {
   margin-top: 20px;
 }
 
-
 }
 
 /* Media query: laptops and desktops 992px and up */
@@ -601,20 +600,20 @@ main {
     display: none;
   }
 
-#hero {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  height: 500px;
-}
+  #hero {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 500px;
+  }
 
- #hero-text {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  font-size: 150%;
-  height: 105px;
-  top: 10px;
-  right: 10px;
+  #hero-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 150%;
+    height: 105px;
+    top: 10px;
+    right: 10px;
  }
 
  #what-is-drifting-origins {
@@ -653,12 +652,19 @@ main {
 }
 
 #what-is-drifting-ireland {
+  margin-top: 50px;
   font-size: 170%;
 }
 
+#drifting-video {
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  right: 270px;
+  top: 1050px;
+}
+
 #roots-image {
-  max-height: 700px;
-  width: 50%;
 }
 
 /* Events page styling */
