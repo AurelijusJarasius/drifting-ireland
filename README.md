@@ -248,3 +248,17 @@ This has led me to the conclusion that while there is a lot of information out t
 - Competition Preference
 - Driver Preference
 - Competitor or Spectator
+
+<a name="testing"></a>
+# Testing
+> Majority of the testing has been conducted manually by myself and a few relatives to ensure the site is useable, responsive and it's easy to navigate
+
+### Testing Phase
+#### Testing for links and form
+| Test | Expectation | Result |
+|--|--|--|
+All links on navigation bar | 1. Logo = Redirect to index.html 2. Home = Redirect to index.html 3. Events = Redirect to events.html 4. Drivers = Redirect to drivers.html 5. Signup = Redirect to sign-up.html | Pass |
+Sign up to our newsletter banner on the bottom of the page | Redirect to sign-up.html | Pass |
+Footer social media links (external links) | 1. Facebook Icon = New tab, redirect to facebook 2. Instagram Icon = New tab, redirect to instagram 3. X Icon = New tab, redirect to X 4. Youtube Icon = New tab, redirect to youtube | Pass |
+Sign up form | User prevented from entering email address without @ | Pass |
+
