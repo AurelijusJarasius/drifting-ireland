@@ -137,7 +137,6 @@ main {
 /* What is drifting section */
 
 #what-is-drifting-origins {
-  display: relative;
   padding-top: 5px;
   padding: 0 10px;
   margin-top: 5px;
@@ -446,8 +445,8 @@ text-align: center;
   color: #fafafa;
 }
 
-/* Media query: larger screens 769px and up */
-@media screen and (min-width: 769px) {
+/* Media query: larger screens 769px to 991px */
+@media screen and (min-width: 769px, max-width: 991px) {
   /*Header*/
 
 nav {
@@ -565,11 +564,13 @@ main {
   }
 
  #hero-text {
-  display: block;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
-  text-align: center;
   font-size: 150%;
-  height: 200px;
+  height: 105px;
+  top: 10px;
+  right: 10px;
  }
 
  #what-is-drifting-origins {
@@ -579,7 +580,7 @@ main {
   padding: 0 10px;
   margin-top: 5px;
   width: 50%;
-  font-size: 150%;
+  font-size: 170%;
 }
 
 /* Slideshow container */
@@ -589,29 +590,34 @@ main {
   padding: 10px;
   max-width: 500px;
   margin: 0;
-  margin-top: -350px;
-  margin-right: 175px;
+  top: -350px;
+  right: 200px;
+}
+
+.dot, .dot-active {
+  display: none;
 }
 
 #what-is-drifting-technical {
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
-  float: right;
+  padding-top: 5px;
   padding: 0 10px;
-  margin-top: 10px;
+  margin-top: 50px;
   width: 50%;
-  font-size: 150%;
+  font-size: 170%;
 }
 
-#drifting-video {
-  margin-top: 10px;
-  width: 50%;
-}
 
 #what-is-drifting-ireland {
-  font-size: 150%;
+  font-size: 170%;
 }
+
+#roots-image {
+  max-height: 700px;
+  width: 100%;
+}
+
 
 #lz-worldtour > img {
   width: 100%;
