@@ -565,8 +565,10 @@ text-align: center;
 /* Drivers Page */
 
 #james-deane {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  float: left;
 }
 
 
@@ -602,8 +604,10 @@ text-align: center;
 }
 
 #conor-shanahan {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  float: left;
 }
 
 #conor-shanahan > img {
