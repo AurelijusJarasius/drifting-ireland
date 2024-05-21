@@ -44,16 +44,18 @@ header a {
  /*Nav bar style - toggle */
  nav {
   position:absolute;
-  width: 100%;
-  left: 33%;
-  padding: 0 1rem;
+  width: 100px;
+  right: 5px;
   display: none;
   top: 100%;
+  background-color: rgba(22, 155, 98, 0.9);
+  font-weight: bold;
  }
 
  /* Nav Toggle */
  #nav-toggle:checked~nav {
-  display: block;
+  display: flex;
+  justify-content: center;
  }
 
  #nav-toggle {

@@ -307,3 +307,12 @@ Find when is the next Drift Masters event in Ireland | Pass |
 
 ## CSS Validation
 ![css validation](assets/css/images/css-validation.png)
+
+## Bugs
+> Issues with youtube video refusing to connect. **Fixed**
+![youtube bug 1](assets/css/images/youtube-bug1.png)
+
+> Original background did not look well with content, made it difficult to read. **Fixed**
+
+> Contrast issue with nav drop down on mobile, hard to see navigation links 
+![nav bug](assets/css/images/nav-bug.png)
