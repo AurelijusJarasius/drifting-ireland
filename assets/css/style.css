@@ -530,6 +530,8 @@ main {
   color: #454b1b;
 }
 
+/* Events page */
+
 #irish-drift-championship > img {
   width: 75%;
 }
@@ -554,6 +556,17 @@ main {
 #lz-worldtour {
   font-size: 150%;
 }
+
+/* Drivers page */
+
+#james-deane {
+  margin-top: 20px;
+}
+
+#jack-shanahan {
+  margin-top: 20px;
+}
+
 
 }
 
@@ -668,6 +681,83 @@ main {
 #lz-worldtour > img {
   width: 50%;
 }
+
+/* Drivers Page */
+
+#james-deane {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+#james-deane > img {
+  width: 250px;
+  height: 250px;
+}
+
+#james-deane-bio {
+  display: flex;
+  flex-direction: column;
+  font-size: 150%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#jack-shanahan {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#jack-shanahan > img {
+  width: 250px;
+  height: 250px;
+}
+
+#jack-shanahan-bio {
+  display: flex;
+  flex-direction: column;
+  font-size: 150%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#conor-shanahan {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#conor-shanahan > img {
+  width: 250px;
+  height: 250px;
+}
+
+#conor-shanahan-bio {
+  display: flex;
+  flex-direction: column;
+  font-size: 150%;
+  margin-top: 50px;
+  margin-bottom: 15px;
+}
+
+
+#duane-mckeever > img {
+  width: 250px;
+  height: 250px;
+}
+
+#duane-mckeever {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#duane-mckeever-bio {
+  display: flex;
+  flex-direction: column;
+  font-size: 150%;
+  margin-top: 50px;
+  margin-bottom: 15px;
+}
+
 
 }
 
