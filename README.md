@@ -314,5 +314,7 @@ Find when is the next Drift Masters event in Ireland | Pass |
 
 > Original background did not look well with content, made it difficult to read. **Fixed**
 
-> Contrast issue with nav drop down on mobile, hard to see navigation links 
+> Contrast issue with nav drop down on mobile, hard to see navigation links **Fixed**
 ![nav bug](assets/css/images/nav-bug.png)
+
+> Video and images not positioning correctly on larger screens 992px and up **Fixed**

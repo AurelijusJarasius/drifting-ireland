@@ -280,7 +280,7 @@ main {
   position: relative;
 }
 
-#irish-drift-championship > img {
+#irish-drift-championship > a > img {
   width: 100%;
 }
 
@@ -288,7 +288,7 @@ main {
 text-align: center;
 }
 
-#drift-masters > img {
+#drift-masters > a > img {
   width: 100%;
   height: 150px;
 }
@@ -297,8 +297,9 @@ text-align: center;
   text-align: center;
 }
 
-#lz-worldtour > img {
+#lz-worldtour > a > img {
   width: 100%;
+  height: 150px;
 }
 
 #lz-worldtour {
@@ -538,7 +539,6 @@ text-align: center;
   margin-top: 100px;
   font-size: 170%;
 }
-
 
 
 /* Events page styling */
