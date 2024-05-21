@@ -226,8 +226,6 @@ This has led me to the conclusion that while there is a lot of information out t
 
 > Add sections for upcoming and past events
 
-> Link logos to external websites of the competitions
-
 > Add an option to purchase tickets direct from the website for upcoming events
 
 ### Drivers Page
@@ -261,6 +259,7 @@ All links on navigation bar | 1. Logo = Redirect to index.html 2. Home = Redirec
 Sign up to our newsletter banner on the bottom of the page | Redirect to sign-up.html | Pass |
 Footer social media links (external links) | 1. Facebook Icon = New tab, redirect to facebook 2. Instagram Icon = New tab, redirect to instagram 3. X Icon = New tab, redirect to X 4. Youtube Icon = New tab, redirect to youtube | Pass |
 Sign up form | User prevented from entering email address without @ | Pass |
+Image links on events page (external links) | 1. IDC logo = Redirect to IDC page 2. DMEC logo = Redirect to DMEC page 3. LZWT Logo = Redirect to LZWT page | Pass |
 
 #### Testing for responsiveness
 | Test | Result |
@@ -318,3 +317,4 @@ Find when is the next Drift Masters event in Ireland | Pass |
 ![nav bug](assets/css/images/nav-bug.png)
 
 > Video and images not positioning correctly on larger screens 992px and up **Fixed**
+
