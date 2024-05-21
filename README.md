@@ -268,3 +268,11 @@ Sign up form | User prevented from entering email address without @ | Pass |
 Home page, about, portfolio, contact us displays correctly on screens less than 769px | Pass |
 Home page, about, portfolio, contact us displays correctly on screens larger than 992px | Pass |
 
+#### User Testing
+| Test | Result |
+|--|--|
+Navigate to to sign up to our newsletter and sign up to the newsletter | Pass |
+Navigate to the bottom of the page and navigate to facebook | Pass |
+Find how many winnings does Conor Shanahan have | Pass |
+Find when is the next Drift Masters event in Ireland | Pass |
+
