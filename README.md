@@ -304,3 +304,6 @@ Find when is the next Drift Masters event in Ireland | Pass |
 
 ### sign-up.html
 ![html validation sign-up.html](assets/css/images/html-validation-sign-up.png)
+
+## CSS Validation
+![css validation](assets/css/images/css-validation.png)
