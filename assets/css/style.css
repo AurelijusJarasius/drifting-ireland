@@ -305,6 +305,11 @@ text-align: center;
 
 /* Drivers.html page styling */
 
+#driver-bio > h1 {
+  text-align: center; 
+  padding-top: 20px;
+}
+
 #first {
   color: #FFD700;
 }
