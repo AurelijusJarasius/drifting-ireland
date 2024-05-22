@@ -136,10 +136,15 @@ main {
 
 /* What is drifting section */
 
+#what-is-drifting-origins > h3 {
+  color: #169B62;
+  font-weight: 500;
+  font-size: 140%;
+}
+
 #what-is-drifting-origins {
   padding-top: 5px;
   padding: 0 10px;
-  margin-top: 5px;
 }
 
 /* Slideshow container */
@@ -231,6 +236,12 @@ main {
 
 /* Technical Bit styling */
 
+#what-is-drifting-technical > h3 {
+  color: #FFFFFF;
+  font-weight: 500;
+  font-size: 140%;
+}
+
 #what-is-drifting-technical {
   padding: 0 10px;
   margin-top: 5px;
@@ -240,10 +251,17 @@ main {
   display: flex;
   justify-content: center;
   width: 100%;
-  height: 300px;
+  height: 250px;
 }
 
 /* Irish Drifting Roots styling */
+
+#what-is-drifting-roots > h3 {
+  color: #FF883E;
+  font-weight: 500;
+  font-size: 140%;
+}
+
 
 #what-is-drifting-roots {
   padding: 0 10px;
@@ -527,6 +545,10 @@ text-align: center;
     right: 10%;
  }
 
+ #what-is-drifting > h1 {
+  font-size: 200%;
+ }
+
  #what-is-drifting-origins {
   display: flex;
   flex-direction: column;
@@ -550,7 +572,6 @@ text-align: center;
   flex-direction: column;
   padding-top: 5px;
   padding: 0 25px;
-  margin-top: 30px;
   width: 100%;
   font-size: 170%;
 }
@@ -562,7 +583,7 @@ text-align: center;
 }
 
 #what-is-drifting-roots {
-  margin-top: 100px;
+  margin-top: 140px;
   font-size: 170%;
   padding: 0 25px;
 }
