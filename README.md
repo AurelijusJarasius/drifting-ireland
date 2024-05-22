@@ -275,6 +275,14 @@ Navigate to the bottom of the page and navigate to facebook | Pass |
 Find how many winnings does Conor Shanahan have | Pass |
 Find when is the next Drift Masters event in Ireland | Pass |
 
+### Browser Testing
+| Browser | Test | Expectation |Result |
+|--|--|--|--|
+Chrome | Browse through all website | Content displayed correctly, all links work as expected | Pass |
+Edge | Browse through all website | Content displayed correctly, all links work as expected | Pass |
+Firefox  | Browse through all website | Content displayed correctly, all links work as expected | Pass |
+Opera  | Browse through all website | Content displayed correctly, all links work as expected | Pass |
+
 
 ## Google Lightouse Testing
 
