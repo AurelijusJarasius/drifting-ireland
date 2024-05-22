@@ -319,6 +319,8 @@ Find when is the next Drift Masters event in Ireland | Pass |
 
 > Video and images not positioning correctly on larger screens 992px and up **Fixed**
 
+> On the drivers page, not all driver name centered **Known**
+
 <a name="deployment"></a>
 ## Deployment
 
