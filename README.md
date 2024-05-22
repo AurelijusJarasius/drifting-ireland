@@ -69,7 +69,7 @@ This has led me to the conclusion that while there is a lot of information out t
 
 > Website should contain Irish driver details
 
-> Website should contain newsletter sign uo option
+> Website should contain newsletter sign up option
 
 ## Structure Plane
 > Website will contain 4 pages: Home, Events, Drivers, Sign Up
@@ -163,7 +163,7 @@ This has led me to the conclusion that while there is a lot of information out t
 #### Hero Section
 ![Hero-image](assets/css/images/hero.png)
 
-> Image with a flex box overlay. This section is intended to draw attention the the image as not many people are familiar with what dirfting is. It serves the purpose of both image content and explanation on what drifting is.
+> Image with a flex box overlay. This section is intended to draw attention the image as not many people are familiar with what drifting is. It serves the purpose of both image content and explanation on what drifting is.
 
 #### Origins Section
 ![origins-text-images](assets/css/images/origins.png)
@@ -173,7 +173,7 @@ This has led me to the conclusion that while there is a lot of information out t
 #### Technical Bit Section
 ![Technical-text-video](assets/css/images/technical.png)
 
-> Text explaining technical (borring) bit of drifting and an iframe video to youtube. Intention here is to explain how drifting works in theory. It is not the most exciting part so a video acompanies the text to make it more interesting.
+> Text explaining technical (boring) bit of drifting and an iframe video to youtube. Intention here is to explain how drifting works in theory. It is not the most exciting part so a video accompanies the text to make it more interesting.
 
 #### Roots in Ireland Section
 ![Roots-section](assets/css/images/Roots.png)
@@ -238,7 +238,7 @@ This has led me to the conclusion that while there is a lot of information out t
 
 ### NEW Page - Community
 
-> Add sections for various communities arround Ireland
+> Add sections for various communities around Ireland
 
 ### Sign Up Page
 
@@ -276,12 +276,26 @@ Find how many winnings does Conor Shanahan have | Pass |
 Find when is the next Drift Masters event in Ireland | Pass |
 
 ### Browser Testing
-| Browser | Test | Expectation |Result |
+| Browser | Test | Expectation | Result |
 |--|--|--|--|
 Chrome | Browse through all website | Content displayed correctly, all links work as expected | Pass |
 Edge | Browse through all website | Content displayed correctly, all links work as expected | Pass |
 Firefox  | Browse through all website | Content displayed correctly, all links work as expected | Pass |
 Opera  | Browse through all website | Content displayed correctly, all links work as expected | Pass |
+Safari  | Browse through all website | Content displayed correctly, all links work as expected | Pass |
+
+> Safari: light variation in colors/fonts
+
+## Mobile/Tablet Testing
+| Device | Test | Expectation | Result |
+|--|--|--|--|
+OnePlus Nord 2 | Browse through all website | Content displayed correctly, all links work as expected | Pass |
+Samsung Galaxy A22 | Browse through all website | Content displayed correctly, all links work as expected | Pass |
+OnePlus Pad | Browse through all website | Content displayed correctly, all links work as expected | Pass |
+iPhone 15 Pro | Browse through all website | Content displayed correctly, all links work as expected | Pass |
+iPhone 12 Pro | Browse through all website | Content displayed correctly, all links work as expected | Pass |
+Huawei P30 Pro | Browse through all website | Content displayed correctly, all links work as expected | Pass |
+
 
 
 ## Google Lightouse Testing
@@ -327,7 +341,7 @@ Opera  | Browse through all website | Content displayed correctly, all links wor
 
 > Video and images not positioning correctly on larger screens 992px and up **Fixed**
 
-> On the drivers page, not all driver name centered **Known**
+> On the drivers page, not all driver name centred **Known**
 
 <a name="deployment"></a>
 ## Deployment
@@ -336,8 +350,8 @@ Opera  | Browse through all website | Content displayed correctly, all links wor
 
  1. Clicked on `Settings` on the navigation menu in the repository
  2. I then selected the `Pages` menu on the side bar.
- 3. In the first dropdown menu labeled `Source` I selected the branch of the name `main` from the dropdown.
- 4. In the next dropdown labeled `/root` I left as the default option.
+ 3. In the first dropdown menu labelled `Source` I selected the branch of the name `main` from the dropdown.
+ 4. In the next dropdown labelled `/root` I left as the default option.
  5. Selected Save
  
 > I then received a notification from GitHub that my project is being deployed and after about 1 minute & a couple of refreshes of the page it was ready and live.
@@ -403,7 +417,7 @@ Opera  | Browse through all website | Content displayed correctly, all links wor
 ### htmlcolors.com
 > Used for colour codes
 
-<a name="acknowlegements"></a>
+<a name="acknowledgements"></a>
 ## Acknowledgements
 
 ### Alan Bushell
