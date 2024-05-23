@@ -356,6 +356,10 @@ text-align: center;
 
 /* James Deane styling */
 
+#james-deane > h2 {
+  width: 100%;
+}
+
 #james-deane > img {
   float: left;
   padding: 5px;
@@ -398,6 +402,10 @@ text-align: center;
 
 /* Conor Shanahan Styling */
 
+#conor-shanahan > h2 {
+  width: 100%;
+}
+
 #conor-shanahan {
   margin-top: 20px;
 }
@@ -422,6 +430,7 @@ text-align: center;
 }
 
 /* Duane Mckeever styling */
+
 
 #duane-mckeever > img {
   float: left;
@@ -494,7 +503,6 @@ text-align: center;
   background-color: #169B62;
   color: #fafafa;
 }
-
 
 /* Media query: laptops and desktops 992px and up */
 @media screen and (min-width: 992px) {
