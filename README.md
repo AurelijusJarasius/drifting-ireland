@@ -2,7 +2,7 @@
 ## A website built to highlight the popularity of drifting in Ireland, history, events and driver information.
 ### Aurelijus Jarasius
 
-![am I responsive screenshot](assets/css/images/responsive-screenshot.webp)
+![am I responsive screenshot](assets/images/responsive-screenshot.webp)
 
 ## **[Live site](https://aurelijusjarasius.github.io/drifting-ireland/)**
 
@@ -112,16 +112,16 @@ This has led me to the conclusion that while there is a lot of information out t
 ## Skeleton Pane
 
 ### Home Page
-![Homepage desktop frame](assets/css/images/Home-page.webp)
+![Homepage desktop frame](assets/images/Home-page.webp)
 
 ### Events Page
-![Events page desktop frame](assets/css/images/Home-page.webp)
+![Events page desktop frame](assets/images/Home-page.webp)
 
 ### Drivers Page
-![Drivers page desktop frame](assets/css/images/Drivers-page.webp)
+![Drivers page desktop frame](assets/images/Drivers-page.webp)
 
 ### Signup Page
-![Signup page desktop frame](assets/css/images/signup-page.webp)
+![Signup page desktop frame](assets/images/signup-page.webp)
 
 > Design of the website is meant to be simple and provide relevant information without any clutter. As I worked through the project, I had to change the design as it did not look how I wanted. I had to change the background and reorder the content.
 
@@ -153,47 +153,47 @@ This has led me to the conclusion that while there is a lot of information out t
 ### index.html
 
 #### Navigation Bar
-![Navigation Bar](assets/css/images/navigation-bar.png)
+![Navigation Bar](assets/images/navigation-bar.png)
 > Navigation bar consists of 4 links in the center of the page
 
-![Navigation Bar Mobile](assets/css/images/navigation-mobile.png)
+![Navigation Bar Mobile](assets/images/navigation-mobile.png)
 
 > For mobile use navigation bar shrinks to burger icon
 
 #### Hero Section
-![Hero-image](assets/css/images/hero.png)
+![Hero-image](assets/images/hero.png)
 
 > Image with a flex box overlay. This section is intended to draw attention the image as not many people are familiar with what drifting is. It serves the purpose of both image content and explanation on what drifting is.
 
 #### Origins Section
-![origins-text-images](assets/css/images/origins.png)
+![origins-text-images](assets/images/origins.png)
 
 > Text explaining origins and a slideshow containing images of the mentioned drivers. This section is intended to give a brief history lesson on where drifting comes from. Images in the slideshow give an impact to how far drifting dates back to.
 
 #### Technical Bit Section
-![Technical-text-video](assets/css/images/technical.png)
+![Technical-text-video](assets/images/technical.png)
 
 > Text explaining technical (boring) bit of drifting and an iframe video to youtube. Intention here is to explain how drifting works in theory. It is not the most exciting part so a video accompanies the text to make it more interesting.
 
 #### Roots in Ireland Section
-![Roots-section](assets/css/images/Roots.png)
+![Roots-section](assets/images/Roots.png)
 
 > Text explaining roots of drifting in Ireland with an image underneath. The intention of this section is to showcase when drifting has become popular in Ireland.
 
 #### Call to signup Section
-![Call-to-action](assets/css/images/call-to-action.png)
+![Call-to-action](assets/images/call-to-action.png)
 
 > Bar across the page with a call to action. This links to the sign up page. The intention is to get people to sign up and build a database for potential future features.
 
 #### Footer with social media links
-![Footer](assets/css/images/social-media.png)
+![Footer](assets/images/social-media.png)
 
 > Footer used to showcase social media icons. Clicking on the icons will redirect to external pages in a new tab.
 
 ### events.html
 
 #### Event Calendar
-![Event-calendar](assets/css/images/event-calendar.png)
+![Event-calendar](assets/images/event-calendar.png)
 
 > Images of the competition logos
 
@@ -202,14 +202,14 @@ This has led me to the conclusion that while there is a lot of information out t
 ### drivers.html
 
 #### Irish Drivers
-![Driver-info](assets/css/images/drivers.png)
+![Driver-info](assets/images/drivers.png)
 
 > Picture of 4 most famous drivers in Ireland. Basic bio information. Age, place of Birth and winnings to date.
 
 ### sign-up.html
 
 #### Sign Up form
-![Signup-form](assets/css/images/Signup.png)
+![Signup-form](assets/images/Signup.png)
 
 > Basic sign up form with email validation. Name, Last Name & email address.
 
@@ -301,43 +301,43 @@ Huawei P30 Pro | Browse through all website | Content displayed correctly, all l
 ## Google Lightouse Testing
 
 ### index.html
-![Google Lightouse index.html](assets/css/images/Homepage-test.png)
+![Google Lightouse index.html](assets/images/Homepage-test.png)
 
 ### events.html
-![Google Lightouse events.html](assets/css/images/Events-page-test.png)
+![Google Lightouse events.html](assets/images/Events-page-test.png)
 
 ### drivers.html
-![Google Lightouse drivers.html](assets/css/images/drivers-page-test.png)
+![Google Lightouse drivers.html](assets/images/drivers-page-test.png)
 
 ### sign-up.html
-![Google Lightouse sign-up.html](assets/css/images/signup-page-test.png)
+![Google Lightouse sign-up.html](assets/images/signup-page-test.png)
 
 ## HTML Validation
 
 ### index.html
-![html validation index.html](assets/css/images/html-validation-index.png)
+![html validation index.html](assets/images/html-validation-index.png)
 
 ### events.html
-![html validation events.html](assets/css/images/html-validation-events.png)
+![html validation events.html](assets/images/html-validation-events.png)
 
 ### drivers.html
-![html validation drivers.html](assets/css/images/html-validation-drivers.png)
+![html validation drivers.html](assets/images/html-validation-drivers.png)
 
 ### sign-up.html
-![html validation sign-up.html](assets/css/images/html-validation-sign-up.png)
+![html validation sign-up.html](assets/images/html-validation-sign-up.png)
 
 ## CSS Validation
-![css validation](assets/css/images/css-validation.png)
+![css validation](assets/images/css-validation.png)
 
 <a name="bugs"></a>
 ## Bugs
 > Issues with youtube video refusing to connect. **Fixed**
-![youtube bug 1](assets/css/images/youtube-bug1.png)
+![youtube bug 1](assets/images/youtube-bug1.png)
 
 > Original background did not look well with content, made it difficult to read. **Fixed**
 
 > Contrast issue with nav drop down on mobile, hard to see navigation links **Fixed**
-![nav bug](assets/css/images/nav-bug.png)
+![nav bug](assets/images/nav-bug.png)
 
 > Video and images not positioning correctly on larger screens 992px and up **Fixed**
 
@@ -400,6 +400,8 @@ Huawei P30 Pro | Browse through all website | Content displayed correctly, all l
 > Drivers page - Driver image styling : https://www.w3schools.com/css/css3_images.asp 
 
 > Sign up form code - course content/Love Running : https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+3/courseware/e805068059af42af87681032aa64053f/fc8bba87c52a4d91b32d1c7c28b1d79b/
+
+> Sign Up page - Regex code: https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_pattern
 
 <a name="content"></a>
 ## Content & Resources
