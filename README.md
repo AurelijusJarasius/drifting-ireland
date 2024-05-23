@@ -315,7 +315,9 @@ Huawei P30 Pro | Browse through all website | Content displayed correctly, all l
 ## HTML Validation
 
 ### index.html
-![html validation index.html](assets/images/html-validation-index.png)
+![html validation index.html](assets/images/html-validation-index-updated.png)
+
+> 1 warning with headings - used this order specifically for styling
 
 ### events.html
 ![html validation events.html](assets/images/html-validation-events.png)
@@ -402,6 +404,8 @@ Huawei P30 Pro | Browse through all website | Content displayed correctly, all l
 > Sign up form code - course content/Love Running : https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+3/courseware/e805068059af42af87681032aa64053f/fc8bba87c52a4d91b32d1c7c28b1d79b/
 
 > Sign Up page - Regex code: https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_pattern
+
+> Favicon : https://favicon.io/emoji-favicons/
 
 <a name="content"></a>
 ## Content & Resources
